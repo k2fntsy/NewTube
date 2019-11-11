@@ -1,0 +1,10 @@
+{
+  "name": "newtube",
+  "version": "1.0.0",
+  "description": "youtube clone",
+  "main": "index.js",
+  "author": "me",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
